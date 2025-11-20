@@ -17,4 +17,4 @@ PUT     /books/:id
 DELETE  /books/:id
 
 ### FK
-GET     /users/:id/books
+GET     /users/:id/books  (Print all books owned by the entered user)
